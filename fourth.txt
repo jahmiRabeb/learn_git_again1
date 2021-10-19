@@ -1,0 +1,18 @@
+$ git log
+commit afe81305703ee161f2a8d5d8e21d776d1a4062a2 (HEAD -> master, origin/master)
+Author: jahmi rabeb <jahmirabeb123@gmail.com>
+Date:   Tue Oct 12 10:38:18 2021 +0100
+
+    removing third.txt
+
+commit 454b201c22a89f3c68a3bbfd30d939da3eaf1fde
+Author: jahmi rabeb <jahmirabeb123@gmail.com>
+Date:   Tue Oct 12 10:36:47 2021 +0100
+
+    adding fourth .txt
+
+commit ddd9b394c559e315cf8af11f364eabb48a1889f5
+Author: jahmi rabeb <jahmirabeb123@gmail.com>
+Date:   Tue Oct 12 10:32:54 2021 +0100
+
+    adding new file
